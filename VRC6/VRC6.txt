@@ -1,0 +1,4 @@
+Instruments that go here:
+VRC6 compatible .fti, .ftm or .0cc.  
+-Pulse
+-Sawtooth
