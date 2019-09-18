@@ -1,0 +1,1 @@
+Put .fti, .ftm or .0cc files containing VRC7 custom patches here!
