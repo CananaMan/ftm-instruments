@@ -13,11 +13,12 @@ Top level folders:
 -FDS
 -S5B
 -Modules
+-Varied
 
 Example layout:
 
 -VRC6
---DudeGuitar92's Lame Packs
+--DudeGuitar92's Lame VRC6 Packs
 ---Bass Instruments
 ----Bass Instruments.txt -<"Made by DudeGuitar92. www.dudeguitar92.com."
 ----bass1.fti
