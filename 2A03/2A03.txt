@@ -1,0 +1,7 @@
+Instruments that go here:
+Any 2a03 compatible .fti, .ftm or .0cc.  
+-Pulse
+-Triangle
+-Noise
+
+DPCM will go in a separate folder, /DPCM.
